@@ -1,4 +1,4 @@
-import User from '../models/user.model';
+import User from './user.model.js';
 
 /**
  * Load user and append to req.
