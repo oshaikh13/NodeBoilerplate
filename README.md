@@ -4,7 +4,7 @@
 
 Clone the repo:
 ```sh
-git clone git@github.com:KunalKapadia/express-mongoose-es6-rest-api.git
+git clone https://github.com/oshaikh13/NodeBoilerplate.git
 cd express-mongoose-es6-rest-api
 ```
 
@@ -79,5 +79,8 @@ gulp
 Get code coverage summary on executing `yarn test`
 
 `yarn test` also generates HTML code coverage report in `coverage/` directory. Open `lcov-report/index.html` to view it.
+
+## Credits
+Kunal Kapadia – @kunalkapadia12 – kunalkapadia12@gmail.com
 
 
